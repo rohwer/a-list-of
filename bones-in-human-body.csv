@@ -1,0 +1,119 @@
+nasal,skull
+lacrimal,skull
+inferior nasal concha,skull
+maxiallary,skull
+zygomatic,skull
+temporal,skull
+palatine,skull
+parietal,skull
+malleus,skull
+incus,skull
+stapes,skull
+frontal,skull
+ethmoid,skull
+vomer,skull
+sphenoid,skull
+mandible,skull
+occipital,skull
+rib 1,torso
+rib 2,torso
+rib 3,torso
+rib 4,torso
+rib 5,torso
+rib 6,torso
+rib 7,torso
+rib 8 (False),torso
+rib 9 (False),torso
+rib 11 (Floating),torso
+rib 12 (Floating),torso
+hyoid,torso
+sternum,torso
+cervial vertebrae 1 (atlas),torso
+c2 (axis),torso
+c3,torso
+c4,torso
+c5,torso
+c6,torso
+c7,torso
+thoracic vertebrae 1,torso
+t2,torso
+t3,torso
+t4,torso
+t5,torso
+t6,torso
+t7,torso
+t8,torso
+t9,torso
+t10,torso
+t11,torso
+t12,torso
+lumbar vertebrae 1,torso
+l2,torso
+l3,torso
+l4,torso
+l5,torso
+sacrum,torso
+coccyx,torso
+scapula,upper extremity
+clavicle,upper extremity
+humerus,upper extremity
+radius,upper extremity
+ulna,upper extremity
+scaphoid,upper extremity
+lunate,upper extremity
+triquetrum,upper extremity
+pisiform,upper extremity
+harnate,upper extremity
+capitate,upper extremity
+trapezoid,upper extremity
+trapezium,upper extremity
+metacarpal 1,upper extremity
+proximal phalange 1,upper extremity
+distal phalange 1,upper extremity
+metacarpal 2,upper extremity
+proximal phalange 2,upper extremity
+middle phalange 2,upper extremity
+distal phalange 2,upper extremity
+metacarpal 3,upper extremity
+proximal phalange 3,upper extremity
+middle phalange 3,upper extremity
+distal phalange 3,upper extremity
+metacarpal 4,upper extremity
+proximal phalange 4,upper extremity
+middle phalange 4,upper extremity
+distal phalange 4,upper extremity
+metacarpal 5,upper extremity
+proximal phalange 5,upper extremity
+middle phalange 5,upper extremity
+distal phalange 5,upper extremity
+hip (ilium, ischium, pubis),lower extremity
+femur,lower extremity
+patella,lower extremity
+tibia,lower extremity
+fibula,lower extremity
+talus,lower extremity
+calcaneus,lower extremity
+navicular,lower extremity
+medial cuneiform,lower extremity
+middle cuneiform,lower extremity
+lateral cuneiform,lower extremity
+cuboid,lower extremity
+metatarsal 1,lower extremity
+proximal phalange 1,lower extremity
+distal phalange 1,lower extremity
+metatarsal 2,lower extremity
+proximal phalange 2,lower extremity
+middle phalange 2,lower extremity
+distal phalange 2,lower extremity
+metatarsal 3,lower extremity
+proximal phalange 3,lower extremity
+middle phalange 3,lower extremity
+distal phalange 3,lower extremity
+metatarsal 4,lower extremity
+proximal phalange 4,lower extremity
+middle phalange 4,lower extremity
+distal phalange 4,lower extremity
+metatarsal 5,lower extremity
+proximal phalange 5,lower extremity
+middle phalange 5,lower extremity
+distal phalange 5,lower extremity
