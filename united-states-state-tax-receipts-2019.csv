@@ -1,0 +1,313 @@
+Geo_Name,Tax_Type,Amount
+United States,Total Taxes,1090242189
+United States,Property Taxes,21122955
+United States,Sales and Gross Receipts Taxes,505225258
+United States,License Taxes,59138337
+United States,Income Taxes,470574829
+United States,Other Taxes,34180810
+Alabama,Total Taxes,11576632
+Alabama,Property Taxes,422322
+Alabama,Sales and Gross Receipts Taxes,5619450
+Alabama,License Taxes,555980
+Alabama,Income Taxes,4879140
+Alabama,Other Taxes,99740
+Alaska,Total Taxes,1780911
+Alaska,Property Taxes,121501
+Alaska,Sales and Gross Receipts Taxes,278823
+Alaska,License Taxes,159757
+Alaska,Income Taxes,332520
+Alaska,Other Taxes,888310
+Arizona,Total Taxes,18163903
+Arizona,Property Taxes,1091363
+Arizona,Sales and Gross Receipts Taxes,10443788
+Arizona,License Taxes,580141
+Arizona,Income Taxes,5871515
+Arizona,Other Taxes,177096
+Arkansas,Total Taxes,10217866
+Arkansas,Property Taxes,1208746
+Arkansas,Sales and Gross Receipts Taxes,4920468
+Arkansas,License Taxes,403627
+Arkansas,Income Taxes,3546406
+Arkansas,Other Taxes,138619
+California,Total Taxes,188235271
+California,Property Taxes,2977083
+California,Sales and Gross Receipts Taxes,60233962
+California,License Taxes,11041442
+California,Income Taxes,113872440
+California,Other Taxes,110344
+Colorado,Total Taxes,15869834
+Colorado,Property Taxes,X
+Colorado,Sales and Gross Receipts Taxes,5988535
+Colorado,License Taxes,697149
+Colorado,Income Taxes,8966205
+Colorado,Other Taxes,217945
+Connecticut,Total Taxes,17993741
+Connecticut,Property Taxes,X
+Connecticut,Sales and Gross Receipts Taxes,7787888
+Connecticut,License Taxes,411475
+Connecticut,Income Taxes,9357648
+Connecticut,Other Taxes,436730
+Delaware,Total Taxes,4595544
+Delaware,Property Taxes,X
+Delaware,Sales and Gross Receipts Taxes,602601
+Delaware,License Taxes,1784760
+Delaware,Income Taxes,2031392
+Delaware,Other Taxes,176791
+DC,Total Taxes,8679390
+DC,Property Taxes,2789077
+DC,Sales and Gross Receipts Taxes,2098154
+DC,License Taxes,207625
+DC,Income Taxes,2941983
+DC,Other Taxes,642551
+Florida,Total Taxes,44799831
+Florida,Property Taxes,X
+Florida,Sales and Gross Receipts Taxes,36492076
+Florida,License Taxes,2124415
+Florida,Income Taxes,3114711
+Florida,Other Taxes,3068629
+Georgia,Total Taxes,24712873
+Georgia,Property Taxes,864858
+Georgia,Sales and Gross Receipts Taxes,9509465
+Georgia,License Taxes,710701
+Georgia,Income Taxes,13448213
+Georgia,Other Taxes,179636
+Hawaii,Total Taxes,8207524
+Hawaii,Property Taxes,X
+Hawaii,Sales and Gross Receipts Taxes,5062134
+Hawaii,License Taxes,280311
+Hawaii,Income Taxes,2758743
+Hawaii,Other Taxes,106336
+Idaho,Total Taxes,4883696
+Idaho,Property Taxes,X
+Idaho,Sales and Gross Receipts Taxes,2533832
+Idaho,License Taxes,387442
+Idaho,Income Taxes,1953737
+Idaho,Other Taxes,8685
+Illinois,Total Taxes,42501290
+Illinois,Property Taxes,60781
+Illinois,Sales and Gross Receipts Taxes,19534290
+Illinois,License Taxes,2779724
+Illinois,Income Taxes,19632006
+Illinois,Other Taxes,494489
+Indiana,Total Taxes,20171288
+Indiana,Property Taxes,13225
+Indiana,Sales and Gross Receipts Taxes,12579447
+Indiana,License Taxes,767938
+Indiana,Income Taxes,6809312
+Indiana,Other Taxes,1366
+Iowa,Total Taxes,10583869
+Iowa,Property Taxes,1982
+Iowa,Sales and Gross Receipts Taxes,4857865
+Iowa,License Taxes,990985
+Iowa,Income Taxes,4633614
+Iowa,Other Taxes,99423
+Kansas,Total Taxes,10030158
+Kansas,Property Taxes,752820
+Kansas,Sales and Gross Receipts Taxes,4523724
+Kansas,License Taxes,433280
+Kansas,Income Taxes,4264874
+Kansas,Other Taxes,55460
+Kentucky,Total Taxes,12895595
+Kentucky,Property Taxes,648739
+Kentucky,Sales and Gross Receipts Taxes,6311232
+Kentucky,License Taxes,530272
+Kentucky,Income Taxes,5209188
+Kentucky,Other Taxes,196164
+Louisiana,Total Taxes,11748609
+Louisiana,Property Taxes,76050
+Louisiana,Sales and Gross Receipts Taxes,6400439
+Louisiana,License Taxes,438495
+Louisiana,Income Taxes,4328623
+Louisiana,Other Taxes,505002
+Maine,Total Taxes,4674441
+Maine,Property Taxes,41110
+Maine,Sales and Gross Receipts Taxes,2327733
+Maine,License Taxes,291044
+Maine,Income Taxes,1961936
+Maine,Other Taxes,52618
+Maryland,Total Taxes,23606217
+Maryland,Property Taxes,836498
+Maryland,Sales and Gross Receipts Taxes,9895931
+Maryland,License Taxes,913034
+Maryland,Income Taxes,11368130
+Maryland,Other Taxes,592624
+Massachusetts,Total Taxes,31805410
+Massachusetts,Property Taxes,7356
+Massachusetts,Sales and Gross Receipts Taxes,9557950
+Massachusetts,License Taxes,1199646
+Massachusetts,Income Taxes,20097631
+Massachusetts,Other Taxes,942827
+Michigan,Total Taxes,30270130
+Michigan,Property Taxes,2194160
+Michigan,Sales and Gross Receipts Taxes,14347394
+Michigan,License Taxes,2030560
+Michigan,Income Taxes,11292994
+Michigan,Other Taxes,405022
+Minnesota,Total Taxes,28175795
+Minnesota,Property Taxes,812497
+Minnesota,Sales and Gross Receipts Taxes,11169575
+Minnesota,License Taxes,1495685
+Minnesota,Income Taxes,14111719
+Minnesota,Other Taxes,586319
+Mississippi,Total Taxes,8288883
+Mississippi,Property Taxes,28362
+Mississippi,Sales and Gross Receipts Taxes,5232943
+Mississippi,License Taxes,512541
+Mississippi,Income Taxes,2463296
+Mississippi,Other Taxes,51741
+Missouri,Total Taxes,13181385
+Missouri,Property Taxes,34022
+Missouri,Sales and Gross Receipts Taxes,5549210
+Missouri,License Taxes,628550
+Missouri,Income Taxes,6956929
+Missouri,Other Taxes,12674
+Montana,Total Taxes,3168557
+Montana,Property Taxes,312300
+Montana,Sales and Gross Receipts Taxes,663096
+Montana,License Taxes,388817
+Montana,Income Taxes,1597960
+Montana,Other Taxes,206384
+Nebraska,Total Taxes,5754834
+Nebraska,Property Taxes,127
+Nebraska,Sales and Gross Receipts Taxes,2579592
+Nebraska,License Taxes,184373
+Nebraska,Income Taxes,2969418
+Nebraska,Other Taxes,21324
+Nevada,Total Taxes,9744547
+Nevada,Property Taxes,335207
+Nevada,Sales and Gross Receipts Taxes,7835623
+Nevada,License Taxes,700863
+Nevada,Income Taxes,X
+Nevada,Other Taxes,872854
+New Hampshire,Total Taxes,2969381
+New Hampshire,Property Taxes,408499
+New Hampshire,Sales and Gross Receipts Taxes,993686
+New Hampshire,License Taxes,465056
+New Hampshire,Income Taxes,954387
+New Hampshire,Other Taxes,147753
+New Jersey,Total Taxes,38844103
+New Jersey,Property Taxes,5481
+New Jersey,Sales and Gross Receipts Taxes,16042909
+New Jersey,License Taxes,1708516
+New Jersey,Income Taxes,19954700
+New Jersey,Other Taxes,1132497
+New Mexico,Total Taxes,7427647
+New Mexico,Property Taxes,86754
+New Mexico,Sales and Gross Receipts Taxes,3684329
+New Mexico,License Taxes,332445
+New Mexico,Income Taxes,1792638
+New Mexico,Other Taxes,1531481
+New York,Total Taxes,91621218
+New York,Property Taxes,X
+New York,Sales and Gross Receipts Taxes,27230515
+New York,License Taxes,1808797
+New York,Income Taxes,58635996
+New York,Other Taxes,3945910
+North Carolina,Total Taxes,29316480
+North Carolina,Property Taxes,X
+North Carolina,Sales and Gross Receipts Taxes,12804080
+North Carolina,License Taxes,2327335
+North Carolina,Income Taxes,14095305
+North Carolina,Other Taxes,89760
+North Dakota,Total Taxes,4969744
+North Dakota,Property Taxes,4636
+North Dakota,Sales and Gross Receipts Taxes,1563632
+North Dakota,License Taxes,228684
+North Dakota,Income Taxes,561797
+North Dakota,Other Taxes,2610995
+Ohio,Total Taxes,30146540
+Ohio,Property Taxes,X
+Ohio,Sales and Gross Receipts Taxes,18529304
+Ohio,License Taxes,2227938
+Ohio,Income Taxes,9320571
+Ohio,Other Taxes,68727
+Oklahoma,Total Taxes,10731644
+Oklahoma,Property Taxes,X
+Oklahoma,Sales and Gross Receipts Taxes,4643652
+Oklahoma,License Taxes,1045007
+Oklahoma,Income Taxes,3868327
+Oklahoma,Other Taxes,1174658
+Oregon,Total Taxes,13959589
+Oregon,Property Taxes,21310
+Oregon,Sales and Gross Receipts Taxes,1864887
+Oregon,License Taxes,1134928
+Oregon,Income Taxes,10758070
+Oregon,Other Taxes,180394
+Pennsylvania,Total Taxes,43132450
+Pennsylvania,Property Taxes,37234
+Pennsylvania,Sales and Gross Receipts Taxes,22140157
+Pennsylvania,License Taxes,2773590
+Pennsylvania,Income Taxes,16479430
+Pennsylvania,Other Taxes,1702039
+Rhode Island,Total Taxes,3723980
+Rhode Island,Property Taxes,2774
+Rhode Island,Sales and Gross Receipts Taxes,1830507
+Rhode Island,License Taxes,116141
+Rhode Island,Income Taxes,1552958
+Rhode Island,Other Taxes,221600
+South Carolina,Total Taxes,11221043
+South Carolina,Property Taxes,42450
+South Carolina,Sales and Gross Receipts Taxes,5241143
+South Carolina,License Taxes,648504
+South Carolina,Income Taxes,5155320
+South Carolina,Other Taxes,133626
+South Dakota,Total Taxes,1940415
+South Dakota,Property Taxes,X
+South Dakota,Sales and Gross Receipts Taxes,1614664
+South Dakota,License Taxes,273497
+South Dakota,Income Taxes,46295
+South Dakota,Other Taxes,5959
+Tennessee,Total Taxes,14826723
+Tennessee,Property Taxes,X
+Tennessee,Sales and Gross Receipts Taxes,10729498
+Tennessee,License Taxes,1909972
+Tennessee,Income Taxes,1899369
+Tennessee,Other Taxes,287884
+Texas,Total Taxes,63330294
+Texas,Property Taxes,X
+Texas,Sales and Gross Receipts Taxes,53905394
+Texas,License Taxes,3659169
+Texas,Income Taxes,X
+Texas,Other Taxes,5765731
+Utah,Total Taxes,9968215
+Utah,Property Taxes,X
+Utah,Sales and Gross Receipts Taxes,4057436
+Utah,License Taxes,363319
+Utah,Income Taxes,5501011
+Utah,Other Taxes,46449
+Vermont,Total Taxes,3428588
+Vermont,Property Taxes,1111956
+Vermont,Sales and Gross Receipts Taxes,1123404
+Vermont,License Taxes,126071
+Vermont,Income Taxes,1010471
+Vermont,Other Taxes,56686
+Virginia,Total Taxes,26285898
+Virginia,Property Taxes,32599
+Virginia,Sales and Gross Receipts Taxes,8595819
+Virginia,License Taxes,897002
+Virginia,Income Taxes,15795819
+Virginia,Other Taxes,964659
+Washington,Total Taxes,27992437
+Washington,Property Taxes,3358585
+Washington,Sales and Gross Receipts Taxes,21373727
+Washington,License Taxes,1746818
+Washington,Income Taxes,X
+Washington,Other Taxes,1513307
+West Virginia,Total Taxes,5938039
+West Virginia,Property Taxes,7039
+West Virginia,Sales and Gross Receipts Taxes,2919112
+West Virginia,License Taxes,240841
+West Virginia,Income Taxes,2295606
+West Virginia,Other Taxes,475441
+Wisconsin,Total Taxes,20039033
+Wisconsin,Property Taxes,99934
+Wisconsin,Sales and Gross Receipts Taxes,8446278
+Wisconsin,License Taxes,1265334
+Wisconsin,Income Taxes,10124476
+Wisconsin,Other Taxes,103011
+Wyoming,Total Taxes,2110704
+Wyoming,Property Taxes,273518
+Wyoming,Sales and Gross Receipts Taxes,953905
+Wyoming,License Taxes,208741
+Wyoming,Income Taxes,X
+Wyoming,Other Taxes,674540
