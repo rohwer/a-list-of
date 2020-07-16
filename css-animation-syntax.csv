@@ -1,0 +1,19 @@
+<single-animation>#
+
+where
+single-animation = <time> || <timing-function> || <time> || <single-animation-iteration-count> || <single-animation-direction> || <single-animation-fill-mode> || <single-animation-play-state> || [none | <keyframes-name> ]
+
+where
+<timing-function> = linear | <cubiz-bezier-timing-function> | <step-timing-function>
+<single-animation-iteration-count> = infinite | <number>
+<single-animation-direction> = normal | reverse | alternate | alternate-reverse
+<single-animation-fill-mode> = none | forwards | backwards | both
+<single-animation-play-state> = running | paused
+<keyframes-name> = <custom-ident> | <string>
+
+where
+<cubic-bezier-timing-function> = ease | ease-in | ease-out | ease-in-out | cubic-bezier()
+<step-timing-function> = step-start | step-end | steps()
+
+where
+<step-position> = jump-start | jump-end | jump-none | jump-both | start | end
